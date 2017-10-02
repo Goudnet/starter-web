@@ -16,3 +16,7 @@ Sample website with plenty of files for demos. Provide simple examples for Git t
 Deployemtn can be any server
 
 ## How to Contribute
+
+### Copyright
+
+(C) 2017
