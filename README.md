@@ -22,4 +22,4 @@ Please fork this repository then issue pull request for review
 
 ### Copyright
 
-(C) 2017
+(C) 2017. All rights reserved
